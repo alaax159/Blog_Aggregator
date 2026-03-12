@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1772618334594,
+      "tag": "0000_slow_sauron",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772623779227,
+      "tag": "0001_fast_lady_ursula",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1773308821523,
+      "tag": "0002_new_venom",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1773309316784,
+      "tag": "0003_gifted_silk_fever",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1773309551487,
+      "tag": "0004_puzzling_nick_fury",
+      "breakpoints": true
+    }
+  ]
+}
